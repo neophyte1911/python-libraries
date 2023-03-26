@@ -9,3 +9,6 @@ Breakdown:
     Requests
     Asycnio
     Tkinter
+    Django
+    Flask
+    BeautifulSoup
