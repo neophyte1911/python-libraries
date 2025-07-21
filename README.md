@@ -15,4 +15,4 @@ Breakdown:
     Docker
     collections -- Done [21/7/25]
     heapq -- Done [21/7/25]
-    
+    bisect -- Done [21/7/25]
