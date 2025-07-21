@@ -13,3 +13,6 @@ Breakdown:
     Flask
     BeautifulSoup
     Docker
+    collections -- Done [21/7/25]
+    heapq -- Done [21/7/25]
+    
